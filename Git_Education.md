@@ -36,6 +36,7 @@ git config --global user.email ваша почта@example.com
 
 ## 6. Основные команды **Git**
 
+
 # 5. Синтаксис языка Markdown
 Открываем изучаем справочник по Markdown из [Google-документа](https://learn.microsoft.com/ru-ru/contribute/content/markdown-reference)
 
