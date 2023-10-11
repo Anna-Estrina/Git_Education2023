@@ -61,6 +61,9 @@ git config --global user.email ваша почта@example.com
 
 > Команда **_git diff_** используется для вычисления разницы между любыми двумя **Git** деревьями. Это может быть, например, разница между вашей рабочей директорией и индексом.
 
+## 7. Тут что-то будет
+Тут точно что-то будет :)
+
 # 5. Синтаксис языка Markdown
 Открываем изучаем справочник по Markdown из [Google-документа](https://learn.microsoft.com/ru-ru/contribute/content/markdown-reference)
 
